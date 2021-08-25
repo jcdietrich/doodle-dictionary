@@ -1,0 +1,25 @@
+{
+    "title": "doodleTitle",
+    "tags" : [
+    ],
+    "creators": {
+        "original": {
+            "name": "unknown",
+            "link": "unknown",
+        },
+        "steps": {
+            "name": "unknown",
+            "link": "unknown",
+        }
+    },
+    "steps": [
+        {
+           "image": "step1.png"
+        }
+    ],
+    "variations": [
+        {
+           "image": "variation1.png"
+        }
+    ]
+}
